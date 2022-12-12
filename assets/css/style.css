@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*body tag was replaced with main tag*/
 main {
     background-color: #d9dcd6;
 }
@@ -23,7 +23,7 @@ main {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* the div tags used in header were replaced with nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*hero tag was replaced with img tag*/
 img {
     max-width: 100%;
     height: auto;
@@ -65,7 +65,7 @@ img {
     float: right;
     margin-left: 25px;
 }
-
+/*removed all seperate h2, img, individual classes within the content class and consolidated them*/
 .content {
     width: 75%;
     display: inline-block;
@@ -90,7 +90,7 @@ img {
     color: #ffffff;
 
 }
-
+/*removed all seperate h3, img, individual classes within the benefits class and consolidated them*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
