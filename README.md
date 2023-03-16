@@ -5,8 +5,8 @@ Horiseon - online marketing agency website provides a range of services to help 
 ## Using the Website
 
 ![screenshot](./assets/images/Screenshot1.png)
-![screenshot](./assets/images/screenshot2.png)
-![screenshot](./assets/images/screenshot3.png)
+![screenshot](./assets/images/Screenshot2.png)
+![screenshot](./assets/images/Screenshot3.png)
 
 The website can be used by navigating to https://hoggi90.github.io/Code-Refactoring-Challenge/
 
